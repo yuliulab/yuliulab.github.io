@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Liu Lab move to new lab space!"
-date:   2019-07-01 00:46:44 +0800
+date:   2019-07-01 12:46:44 +0800
 categories: Lab update
 ---
 
