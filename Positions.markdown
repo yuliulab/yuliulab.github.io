@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /Positions/
+permalink: /positions/
 ---
 
 <h3><em>Open positions</em></h3>
