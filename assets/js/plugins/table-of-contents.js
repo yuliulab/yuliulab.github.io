@@ -14,7 +14,7 @@ function showToc(elem) {
 
     var height = elem.scrollHeight + 'px';
 
-    elem.style.disply = '';
+    elem.style.display = '';
 
     return height;
   };
