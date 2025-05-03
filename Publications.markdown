@@ -8,6 +8,10 @@ permalink: /publications/
 Please see [Google Scholar](https://scholar.google.com/citations?user=rWZM404AAAAJ&hl=en) for a full list of publications.
 (<sup>#</sup> for equal contribution, * for corresponding authors, ***bold and italic*** for lab members.)
 
+1. ***Glycolysis Induces Abnormal Transcription Through Histone Lactylation in T-lineage Acute Lymphoblastic Leukemia.***  
+***Wu W***<sup>#</sup>\*, Zhang J<sup>#</sup>, ***Sun H***, Wu X, ***Wang H***, ***Cui B***, ***Zhao S***, Wu K, Pan Y, ***Fan R***, ***Zhong Y***,  Wang X, ***Wang Y***, Chen X, ***Rao J***, ***Wang R***, Luo K, Liu X, Zheng L, Shen S, Yin M\*, Xie Y\*, ***Liu Y***\*.
+*[Genomics Proteomics Bioinformatics](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzaf029/8107772?login=false)*, 2025
+
 1. ***Discovery of Regulatory Noncoding Variants in Individual Cancer Genomes by Using cis-X.***  
 ***Liu Y***<sup>#</sup>\*, Li C<sup>#</sup>, Shen S<sup>#</sup>, Chen X, Szlachta K, Edmonson MN, Shao Y, Ma X, Hyle J, Wright S, Ju B,  Rusch MC, Liu Y, Li B, Macias M, Tian L, Easton J, Qian M, Yang JJ, Hu S, Look AT, Zhang J\*.
 *[Nature Genetics](https://www.nature.com/articles/s41588-020-0659-5)*, 2020
