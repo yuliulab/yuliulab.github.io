@@ -6,10 +6,10 @@ collection: team
 entries_layout: grid
 ---
 
-Former Lab Members
+Former Lab Members  
 | Name          | Year in lab   | Position in the lab   | Current          |
 | :-----------: | :-----------: |:-------------------: | :--------------: |
 | Ting Liu      | 2020-2023     |PhD student           | Peking Union Medical College |  
-| Fang Zhang    | 2020-2023     | PhD student           | Peking Union Medical College |  
-| Junchen Lai   | 2020-2023     | MS student            | Resident doctor, Shanghai Children's Medical Center |
-| Bilin Liang   | 2020-2023     |                       |                              |
+| Fang Zhang    | 2020-2023     | PhD student          | Peking Union Medical College |  
+| Junchen Lai   | 2020-2023     | MS student           | Resident doctor, Shanghai Children's Medical Center |
+| Bilin Liang   | 2020-2023     |                      |                              |
