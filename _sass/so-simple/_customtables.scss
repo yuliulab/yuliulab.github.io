@@ -16,7 +16,7 @@
   .styled-table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 12px;
+    font-size: 1rem;
     min-width: 450px; /* 防止过小 */
     background-color: #fff;
   }
@@ -47,6 +47,6 @@
     font-size: 24px;
     font-weight: bold;
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom: 8px;
     color: #333;
   }
