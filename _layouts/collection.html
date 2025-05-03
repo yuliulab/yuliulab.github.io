@@ -8,8 +8,10 @@ layout: page
   {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order %}
 </div>
 
-<div class="tables">
-  <table class="table">
-    {{ content }}
-  </table>
+<div class="entries-table-wrapper">
+  <div class="entries-table-container">
+    <table class="entries-styled-table">
+      {{ content }}
+    </table>
+  </div>
 </div>
