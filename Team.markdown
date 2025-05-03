@@ -6,7 +6,7 @@ collection: team
 entries_layout: grid
 ---
 
-
+<link rel="stylesheet" href="/_sass/so-simple/_tables.scss">
 | Alumni        | Position in the lab   | Current          |
 | :-----------: | :-------------------: | :--------------: |
 | Ting Liu      | PhD student           | Peking Union Medical College |  
