@@ -15,7 +15,7 @@
   .styled-table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 14px;
+    font-size: 12px;
     min-width: 600px; /* 防止过小 */
     background-color: #fff;
   }
@@ -40,4 +40,11 @@
   .styled-table tbody tr:nth-child(even) {
     background-color: #fafafa;
   }
-  
+
+  .styled-table caption {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    padding-bottom: 10px;
+    color: #333;
+  }
