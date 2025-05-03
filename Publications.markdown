@@ -45,6 +45,7 @@ Li B<sup>#</sup>, Brady SW<sup>#</sup>, Ma X<sup>#</sup>, Shen S<sup>#</sup>, Zh
 *[Blood](https://ashpublications.org/blood/article/135/1/41/422540/Therapy-induced-mutations-drive-the-genomic)*, 2020
 
 
+
 <h3>Before 2018</h3>
 1. ***Pan-cancer genome and transcriptome analyses of 1,699 pediatric leukemias and solid tumors.***  
 Ma X<sup>#</sup>, ***Liu Y***<sup>#</sup>, Liu Y, Alexandrov LB, Edmonson MN, Gawad C, Zhou X, Li Y, Rusch MC, Easton J, Huether R, Gonzalez-Pena V, Wilkinson MR, Hermida LC, Davis S, Sioson E, Pounds S, Cao X, Ries RE, Wang Z, Chen X, Dong L, Diskin SJ, Smith MA, Guidry Auvil JM, Meltzer PS, Lau CC, Perlman EJ, Maris JM, Meshinchi S, Hunger SP, Gerhard DS, Zhang J\*.
@@ -61,14 +62,6 @@ Bolouri H<sup>#</sup>\*, Farrar JE<sup>#</sup>, Triche T Jr<sup>#</sup>, Ries RE
 1. ***The genomic landscape of pediatric and young adult T-lineage acute lymphoblastic leukemia.***  
 ***Liu Y***<sup>#</sup>, Easton J, Shao Y, Maciaszek J, Wang Z, Wilkinson MR, McCastlain K, Edmonson M, Pounds SB, Shi L, Zhou X, Ma X, Sioson E, Li Y, Rusch M, Gupta P, Pei D, Cheng C, Smith MA, Auvil JG, Gerhard DS, Relling MV, Winick NJ, Carroll AJ, Heerema NA, Raetz E, Devidas M, Willman CL, Harvey RC, Carroll WL, Dunsmore KP, Winter SS, Wood BL, Sorrentino BP, Downing JR, Loh ML, Hunger SP\*, Zhang J\*, Mullighan CG\*.
 *[Nature Genetics](https://www.nature.com/articles/ng.3909)*, 2017
-
-1. ***APOBEC signature mutation generates an oncogenic enhancer that drives LMO1 expression in T-ALL.***  
-Li Z, Abraham BJ, Berezovskaya A, Farah N, ***Liu Y***, Leon T, Fielding A, Tan SH, Sanda T, Weintraub AS, Li B, Shen S, Zhang J, Mansour MR\*, Young RA\*, Look AT\*.
-*[Leukemia](https://www.nature.com/articles/leu201775)*, 2017
-
-1. ***Small genomic insertions form enhancers that misregulate oncogenes.***  
-Abraham BJ, Hnisz D, Weintraub AS, Kwiatkowski N, Li CH, Li Z, Weichert-Leahey N, Rahman S, ***Liu Y***, Etchin J, Li B, Shen S, Lee TI, Zhang J, Look AT\*, Mansour MR\*, Young RA\*.
-*[Nature Communications](https://www.nature.com/articles/ncomms14385)*, 2017
 
 1. ***Genomic heterogeneity of multiple synchronous lung cancer.***  
 ***Liu Y***<sup>#</sup>, Zhang J<sup>#</sup>, Li L<sup>#</sup>, Yin G<sup>#</sup>, Zhang J<sup>#</sup>, Zheng S, Cheung H, Wu N, Lu N, Mao X, Yang L, Zhang J, Zhang L, Seth S, Chen H, Song X, Liu K, Xie Y, Zhou L, Zhao C, Han N, Chen W, Zhang S, Chen L, Cai W, Li L, Shen M, Xu N, Cheng S, Yang H, Lee JJ, Correa A, Fujimoto J, Behrens C, Chow CW, William WN, Heymach JV, Hong WK, Swisher S, Wistuba II, Wang J, Lin D, Liu X, Futreal PA\*, Gao Y\*.
