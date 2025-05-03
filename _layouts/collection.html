@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{{ content }}
+<!-- {{ content }} -->
 
 <div class="entries-{{ page.entries_layout | default: 'list' }}">
   {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order %}
@@ -10,5 +10,6 @@ layout: page
 
 <div class="entries-tables">
   <table class="entries-tables">
+    {{ content }}
   </table>
 </div>
