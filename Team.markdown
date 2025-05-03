@@ -6,7 +6,7 @@ collection: team
 entries_layout: grid
 ---
 
-Former Lab Members  
+
 | Name          | Year in lab   | Position in the lab   | Current          |
 | :-----------: | :-----------: |:-------------------: | :--------------: |
 | Ting Liu      | 2020-2023     |PhD student           | Peking Union Medical College |  
