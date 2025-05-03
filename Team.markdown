@@ -7,8 +7,9 @@ entries_layout: grid
 ---
 
 
-Alumni:
-Ting Liu, PhD student, Peking Union Medical College
-Fang Zhang, PhD student, Peking Union Medical College
-Junchen Lai, resident doctor, Shanghai Children's Medical Center
-Bilin Liang
+| Alumni      | Position in the lab | Current        |
+| ----------- | ------------------- | -------------- |
+| Ting Liu    | PhD student         | Peking Union Medical College |  
+| Fang Zhang  | PhD student         | Peking Union Medical College |  
+| Junchen Lai | MS student          | Resident doctor, Shanghai Children's Medical Center |
+| Bilin Liang |                     |                              |
