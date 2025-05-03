@@ -16,7 +16,7 @@
   .styled-table {
     width: 100%;
     border-collapse: collapse;
-    font-size: 0.85rem;
+    font-size: 12px;
     min-width: 450px; /* 防止过小 */
     background-color: #fff;
   }
@@ -31,7 +31,7 @@
   .styled-table td {
     padding: 12px 15px;
     border-bottom: 1px solid #ddd;
-    font-size: 0.75rem;
+    font-size: 12px;
   }
   
   .styled-table tbody tr:hover {
