@@ -9,7 +9,7 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=rWZM404AAA
 (<sup>#</sup> for equal contribution, * for corresponding authors, ***bold and italic*** for lab members.)
 
 1. ***Glycolysis Induces Abnormal Transcription Through Histone Lactylation in T-lineage Acute Lymphoblastic Leukemia.***  
-***Wu W***<sup>#</sup>, Zhang J<sup>#</sup>, ***Sun H***, Wu X, ***Wang H***, ***Cui B***, ***Zhao S***, Wu K, Pan Y, ***Fan R***, ***Zhong Y***,  Wang X, ***Wang Y***, Chen X, ***Rao J***, ***Wang R***, Luo K, Liu X, Zheng L, Shen S, Yin M\*, Xie Y\*, ***Liu Y***\*.
+***Wu W***<sup>#</sup>, Zhang J<sup>#</sup>, ***Sun H***, Wu X, ***Wang H***, ***Cui B***, ***Zhao S***, ***Wu K***, Pan Y, ***Fan R***, ***Zhong Y***,  Wang X, ***Wang Y***, ***Chen X***, ***Rao J***, ***Wang R***, Luo K, Liu X, Zheng L, Shen S, Yin M\*, Xie Y\*, ***Liu Y***\*.
 *[Genomics Proteomics Bioinformatics](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzaf029/8107772?login=false)*, 2025
 
 1. ***Integrated proteogenomic characterization of ampullary adenocarcinoma.***  
@@ -21,19 +21,19 @@ Li B<sup>#</sup>, ***Zhao S***<sup>#</sup>, Li S, Li C, Liu W, Li L, ***Cui B***
 *[Neuro-Oncology](https://academic.oup.com/neuro-oncology/article/26/7/1335/7618059?login=false)*, 2024
 
 1. ***circRNAs as prognostic markers in pediatric acute myeloid leukemia.***  
-***Sun H***<sup>#</sup>, Xie Y<sup>#</sup>, Wu X, Hu W, Chen X, Wu K, ***Wang H***, ***Zhao S***, ***Shi Q***, Wang X, ***Cui B***, ***Wu W***, ***Fan R***, ***Rao J***, ***Wang R***, ***Wang Y***,***Zhong Y***,  Yu H,  Zhou B, Shen S\*, ***Liu Y***\*.
+***Sun H***<sup>#</sup>, Xie Y<sup>#</sup>, Wu X, Hu W, ***Chen X***, ***Wu K***, ***Wang H***, ***Zhao S***, ***Shi Q***, Wang X, ***Cui B***, ***Wu W***, ***Fan R***, ***Rao J***, ***Wang R***, ***Wang Y***,***Zhong Y***,  Yu H,  Zhou B, Shen S\*, ***Liu Y***\*.
 *[Cancer Letters](https://www.sciencedirect.com/science/article/abs/pii/S0304383524002738?via%3Dihub)*, 2024
 
 1. ***Chromatin accessibility landscape of relapsed pediatric B-lineage acute lymphoblastic leukemia.***  
-***Wang H***<sup>#</sup>, ***Sun H***<sup>#</sup>, ***Liang B***, Zhang F, Yang F, ***Cui B***, Ding L, Wang X, ***Wang R***, Cai J, Tang Y, ***Rao J***, Hu W, ***Wu W***, Chen X, Wu K, Lai J, Xie Y, Li B, Tang J, Shen S\*, ***Liu Y***\*.
+***Wang H***<sup>#</sup>, ***Sun H***<sup>#</sup>, ***Liang B***, Zhang F, Yang F, ***Cui B***, Ding L, Wang X, ***Wang R***, Cai J, Tang Y, ***Rao J***, Hu W, ***Wu W***, ***Chen X***, ***Wu K***, ***Lai J***, Xie Y, Li B, Tang J, Shen S\*, ***Liu Y***\*.
 *[Nature Communications](https://www.nature.com/articles/s41467-023-42565-z)*, 2023
 
 1. ***Front- and Rear-driving Patterns of Tumor Thrombus Progression in Clear Cell Renal Cell Carcinoma.***  
-Xie R<sup>#</sup>, ***Sun H***<sup>#</sup>, ***Zhao S***, Chen H, Jiang W, Dong X, Shang B, Bi X, Gao Y, ***Liu Y***\*, ***Shou J***\*.
+Xie R<sup>#</sup>, ***Sun H***<sup>#</sup>, ***Zhao S***, Chen H, Jiang W, Dong X, Shang B, Bi X, Gao Y, ***Liu Y***\*, Shou J\*.
 *[European Urology](https://www.sciencedirect.com/science/article/abs/pii/S0302283822023922?via%3Dihub)*, 2022
 
 1. ***Distinct genomic landscape of Chinese pediatric acute myeloid leukemia impacts clinical risk classification.***  
-***Liu T***<sup>#</sup>, ***Rao J***<sup>#</sup>, Hu W<sup>#</sup>, ***Cui B***, Cai J, Liu Y, ***Sun H***, Chen X, Tang Y, Chen J, Wang X, ***Wang H***, Qian W, Mao B, Guo S, ***Wang R***, ***Liu Y***\*, Shen S\*.
+***Liu T***<sup>#</sup>, ***Rao J***<sup>#</sup>, Hu W<sup>#</sup>, ***Cui B***, Cai J, Liu Y, ***Sun H***, ***Chen X***, Tang Y, Chen J, Wang X, ***Wang H***, Qian W, Mao B, Guo S, ***Wang R***, ***Liu Y***\*, Shen S\*.
 *[Nature Communications](https://www.nature.com/articles/s41467-022-29336-y)*, 2022
 
 1. ***Discovery of Regulatory Noncoding Variants in Individual Cancer Genomes by Using cis-X.***  
