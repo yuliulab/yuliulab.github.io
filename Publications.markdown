@@ -14,15 +14,15 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=rWZM404AAA
 
 1. ***Integrated proteogenomic characterization of ampullary adenocarcinoma.***  
 Zhang Q<sup>#</sup>, Xu X<sup>#</sup>, Jiang D<sup>#</sup>, Wang Y<sup>#</sup>, Wang H<sup>#</sup>, Zhu J, Tang S, ***Wang R***, ***Zhao S***, Li K, Feng J, Xiang H,  Yao Z, Xu N, Fang R, Guo W, ***Liu Y***\*, Hou Y\*, Ding C\*.
-*[Neuro-Oncology](https://www.nature.com/articles/s41421-024-00742-4)*, 2025
+*[Cell Discovery](https://www.nature.com/articles/s41421-024-00742-4)*, 2025
 
 1. ***Novel molecular subtypes of intracranial germ cell tumours expand therapeutic opportunities.***  
 Li B<sup>#</sup>, ***Zhao S***<sup>#</sup>, Li S, Li C, Liu W, Li L, ***Cui B***, Liu X, Chen H, Zhang J, Ren Y,  Liu F, Yang M, Tao J, ***Liu Y***\*, Qiu X\*.
-*[Cancer Letters](https://academic.oup.com/neuro-oncology/article/26/7/1335/7618059?login=false)*, 2024
+*[Neuro-Oncology](https://academic.oup.com/neuro-oncology/article/26/7/1335/7618059?login=false)*, 2024
 
 1. ***circRNAs as prognostic markers in pediatric acute myeloid leukemia.***  
 ***Sun H***<sup>#</sup>, Xie Y<sup>#</sup>, Wu X, Hu W, Chen X, Wu K, ***Wang H***, ***Zhao S***, ***Shi Q***, Wang X, ***Cui B***, ***Wu W***, ***Fan R***, ***Rao J***, ***Wang R***, ***Wang Y***,***Zhong Y***,  Yu H,  Zhou B, Shen S\*, ***Liu Y***\*.
-*[Genomics Proteomics Bioinformatics](https://www.sciencedirect.com/science/article/abs/pii/S0304383524002738?via%3Dihub)*, 2024
+*[Cancer Letters](https://www.sciencedirect.com/science/article/abs/pii/S0304383524002738?via%3Dihub)*, 2024
 
 1. ***Chromatin accessibility landscape of relapsed pediatric B-lineage acute lymphoblastic leukemia.***  
 ***Wang H***<sup>#</sup>, ***Sun H***<sup>#</sup>, ***Liang B***, Zhang F, Yang F, ***Cui B***, Ding L, Wang X, ***Wang R***, Cai J, Tang Y, ***Rao J***, Hu W, ***Wu W***, Chen X, Wu K, Lai J, Xie Y, Li B, Tang J, Shen S\*, ***Liu Y***\*.
