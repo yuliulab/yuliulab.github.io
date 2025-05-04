@@ -55,10 +55,6 @@ Ma X<sup>#</sup>, ***Liu Y***<sup>#</sup>, Liu Y, Alexandrov LB, Edmonson MN, Ga
 Zimmerman MW<sup>#</sup>, ***Liu Y***<sup>#</sup>, He S, Durbin AD, Abraham BJ, Easton J, Shao Y, Xu B, Zhu S, Zhang X, Li Z, Weichert-Leahey N, Young RA\*, Zhang J\*, Look AT\*.
 *[Cancer Discovery](https://cancerdiscovery.aacrjournals.org/content/8/3/320.long)*, 2018
 
-1. ***The molecular landscape of pediatric acute myeloid leukemia reveals recurrent structural alterations and age-specific mutational interactions.***
-Bolouri H<sup>#</sup>\*, Farrar JE<sup>#</sup>, Triche T Jr<sup>#</sup>, Ries RE<sup>#</sup>, Lim EL, Alonzo TA, Ma Y, Moore R, Mungall AJ, Marra MA, Zhang J, Ma X, ***Liu Y***, Liu Y, Auvil JMG, Davidsen TM, Gesuwan P, Hermida LC, Salhia B, Capone S, Ramsingh G, Zwaan CM, Noort S, Piccolo SR, Kolb EA, Gamis AS, Smith MA, Gerhard DS, Meshinchi S\*.
-*[Nature Medicine](https://www.nature.com/articles/nm.4439)*, 2018
-
 1. ***The genomic landscape of pediatric and young adult T-lineage acute lymphoblastic leukemia.***  
 ***Liu Y***<sup>#</sup>, Easton J, Shao Y, Maciaszek J, Wang Z, Wilkinson MR, McCastlain K, Edmonson M, Pounds SB, Shi L, Zhou X, Ma X, Sioson E, Li Y, Rusch M, Gupta P, Pei D, Cheng C, Smith MA, Auvil JG, Gerhard DS, Relling MV, Winick NJ, Carroll AJ, Heerema NA, Raetz E, Devidas M, Willman CL, Harvey RC, Carroll WL, Dunsmore KP, Winter SS, Wood BL, Sorrentino BP, Downing JR, Loh ML, Hunger SP\*, Zhang J\*, Mullighan CG\*.
 *[Nature Genetics](https://www.nature.com/articles/ng.3909)*, 2017
@@ -66,7 +62,3 @@ Bolouri H<sup>#</sup>\*, Farrar JE<sup>#</sup>, Triche T Jr<sup>#</sup>, Ries RE
 1. ***Genomic heterogeneity of multiple synchronous lung cancer.***  
 ***Liu Y***<sup>#</sup>, Zhang J<sup>#</sup>, Li L<sup>#</sup>, Yin G<sup>#</sup>, Zhang J<sup>#</sup>, Zheng S, Cheung H, Wu N, Lu N, Mao X, Yang L, Zhang J, Zhang L, Seth S, Chen H, Song X, Liu K, Xie Y, Zhou L, Zhao C, Han N, Chen W, Zhang S, Chen L, Cai W, Li L, Shen M, Xu N, Cheng S, Yang H, Lee JJ, Correa A, Fujimoto J, Behrens C, Chow CW, William WN, Heymach JV, Hong WK, Swisher S, Wistuba II, Wang J, Lin D, Liu X, Futreal PA\*, Gao Y\*.
 *[Nature Communications](https://www.nature.com/articles/ncomms13200)*, 2016
-
-1. ***Exploring genomic alteration in pediatric cancer using ProteinPaint.***  
-Zhou X, Edmonson MN, Wilkinson MR, Patel A, Wu G, ***Liu Y***, Li Y, Zhang Z, Rusch MC, Parker M, Becksfort J, Downing JR, Zhang J\*.
-*[Nature Genetics](https://www.nature.com/articles/ng.3466)*, 2016
